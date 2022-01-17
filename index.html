@@ -21,7 +21,7 @@
             <div class="card-body">
                 <textarea readonly id="password" placeholder="Your Secure Password" aria-label="Generated Password"></textarea>
             </div>
-            <div class="card-footer">
+            <div onclick="document.getElementById('password').innerHTML = getRndInteger(0,10)" class="card-footer">
                 <button id="generate " class="btn ">Generate Password</button>
             </div>
         </div>

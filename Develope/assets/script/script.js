@@ -5,8 +5,8 @@
 var generateBtn = document.querySelector("#generate");
 
 // function to generate a random numeric value
-var randomNumber = function(min, max) {
-    var value = Math.floor(Math.random() * (max - min) + min);
+var randomNumber = function() {
+    var value = Math.floor(Math.random() * );
 
     return value;
 };
