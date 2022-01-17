@@ -1,5 +1,9 @@
 # passwordGenerator
 
+![Mock-up](https://raw.githubusercontent.com/VAalchemist/passwordGenerator/main/Develope/assets/images/screenShot.png)
+
+
+
 Repository contains quality README file with description, screenshot, and link to deployed application.
 
 User Story
